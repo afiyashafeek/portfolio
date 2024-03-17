@@ -1,0 +1,174 @@
+.banner2{
+    background-color: rgb(34, 152, 255);
+ min-height: 500px;
+    background-image: url(pink.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.inbox{
+    background-color: rgb(231, 99, 209);
+    height: 200px;
+    width: 170px;
+    margin: auto;
+    margin-top: 15px;
+}
+.head1{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+.web{
+    text-align: center;
+}
+.bi{
+    text-align: center;
+    color: black;
+    padding: 4px;
+}
+.banner3{
+margin-top: 45px;
+}
+.abt{
+    text-align: center;
+    text-decoration: none;
+    text-transform:uppercase;
+  
+color: rgb(255, 255, 255);
+background-color: rgb(0, 0, 0);
+padding: 1PX 20PX;
+border-radius: 10PX;
+
+}
+.about{
+    text-align: center;
+    margin-top: 5px;
+}
+.me{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+}
+.line1{
+     height: 1px;
+     width: 120px;
+     background-color: black;
+     margin: auto;
+}
+.para1{
+    padding: 5px;
+    margin-top: 45px;
+}
+.bio{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+}
+.line2{
+    height: 1px;
+    width: 50px;
+    background-color: black;
+    margin: auto;
+}
+.para2{
+    padding: 5px;
+    margin-top: 45px;
+    margin-left: 20PX;
+}
+.pro{
+    color: brown;
+    
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+    text-align: center;
+}
+.line3{
+    height: 1px;
+    width: 250px;
+    background-color: black;
+    margin: auto;
+}
+.file{
+    margin-top: 30px;
+}
+.banner5{
+    background-color: aliceblue;
+    height: 500px;
+    margin-top: 55px;
+}
+.edu{
+    color: brown;
+    
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+}
+.line4{
+    height: 1px;
+    width: 200px;
+    background-color: black;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.gra{
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+   .ba{
+    margin-left: 40px;
+   }
+   .high{
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 4px;
+   }
+   .gs{
+    margin-left: 40px;
+   }
+   .bibi{
+    margin-left: 5px;
+   }
+   .school{
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   }
+   .sch{
+    margin-left: 40px;
+   }
+   .progress{
+    margin-bottom: 10px;
+   }
+   .navbar-brand{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px!important;
+    font-family:'script mt';
+  }
+  .navbar-brand{
+    padding-top: var(bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    /* color: var(--bs-navbar-brand-color); */
+    text-decoration: none;
+    white-space: nowrap;
+  }
+ .home12{
+    text-decoration: none;
+    font-size: 40px !important;
+    color: black;
+  }
+ .diamond{
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ .plustwo{
+    margin-left: 40px;
+ }
